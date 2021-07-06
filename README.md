@@ -8,8 +8,8 @@ create various modules of different AWS services
 6) create elastiCahe.
 7) create s3 bucket.
 8) create kms key and sns for notification.
-create test folder and inside it various file will be created.
-9)create variable.tf and declare all variables used in modules there.
-10) Define the values of all the variables in terraform.tfvars in it.
-11) create a backend.tf which will store the terraform state in s3 persistently.
-12) create main.tf where all the variables will be called from there respective modules.
+9) create test folder and inside it various file will be created.
+10)create variable.tf and declare all variables used in modules there.
+11) Define the values of all the variables in terraform.tfvars in it.
+12) create a backend.tf which will store the terraform state in s3 persistently.
+13) create main.tf where all the variables will be called from there respective modules.
